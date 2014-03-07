@@ -1,0 +1,1 @@
+My personal settings & packages for Sublime Text 2. This is a backup of ~/Library/Application Support/Sublime Text 2/, with /backup & /settings excluded.
